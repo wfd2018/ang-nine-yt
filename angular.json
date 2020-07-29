@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ang-nine-yt"
+    }
+  },
+  "defaultProject": "ang-nine-yt",
+  "cli": {
+    "analytics": "b0062360-3404-457c-a30c-cdd1e173ae98"
+  }
 }
